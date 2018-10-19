@@ -1,4 +1,5 @@
-Git‚Ì—ûK
-Šî–{“I‚Èƒ[ƒNƒtƒ[
-Egit add
-Egit commit
+Gitã®ç·´ç¿’
+åŸºæœ¬çš„ãªãƒ¯ãƒ¼ã‚¯ãƒ•ãƒ­ãƒ¼
+ãƒ»git add
+ãƒ»git commit
+git pull
